@@ -10,7 +10,7 @@ It Uses SQL, MySQL And MS Word.
 Here In See The Project For A Inventory Management Project.
 
 ### Vision Of Project:
-The Vision Of Project Is To Make An Inventory Management Project.
+The Vision Of Project Is To Make An Inventory Management Project With Various Operations Applied Of SQL.
 
 ### At What Stage Is Project:
 The Project Has Been Finished And Had Ended.
